@@ -10,8 +10,6 @@ function App() {
         <p>
           V3
         </p>
-        
-        </a>
       </header>
     </div>
   );
