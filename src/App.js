@@ -7,8 +7,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello from V3</h1>
+        <p>
+          V3
+        </p>
+        
+        </a>
       </header>
     </div>
   );
 }
+
+export default App;
